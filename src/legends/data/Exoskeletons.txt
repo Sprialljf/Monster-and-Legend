@@ -1,0 +1,13 @@
+Name/level/damage/defense/dodge chance
+Cyrrolla_Elite     7   720   820   72
+Brando_Swift       3   340   460   28
+BigBad_Wolfling    1   140   230   18
+Wicked_Witchling   2   260   340   27
+Aasterian_Guard    4   410   520   43
+Chronos_Shell      6   640   770   58
+Kiaran_Vanguard    8   870   930   82
+Shargaas_Stalker   5   560   640   52
+Merrshaur_Lord     10  1020  920   52
+Yeenoghu_Fang      9   940   860   88
+Doc_Octoid         6   610   590   53
+Exodium_Core       10  990   1010  48

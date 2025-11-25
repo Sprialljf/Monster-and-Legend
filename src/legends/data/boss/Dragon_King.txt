@@ -1,0 +1,9 @@
+name: Dragon_King
+level: 10
+hp: 7000
+damage: 150
+defense: 400
+dodge: 40
+type: dragon_king
+immune: melee       
+allow: bow,spell    

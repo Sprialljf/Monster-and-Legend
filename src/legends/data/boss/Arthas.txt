@@ -1,0 +1,15 @@
+name: Arthas
+level: 12
+hp: 9000
+damage: 300
+defense: 600
+dodge: 35
+type: lich_king
+summon_interval: 2
+summon_on_round1: yes
+summon_spirit: Ereshkigall
+summon_dragon: Alexstraszan
+summon_exoskeleton: Merrshaur_Lord
+reward_after_rounds: 5
+reward_item: Frostmourne
+percent_damage_from_reward_item: 0.33

@@ -1,0 +1,14 @@
+Name/level/damage/defense/dodge chance
+Desghid_Flame      3   310   390   33
+Chryso_Scale       2   210   510   22
+Bunsen_Fury        4   420   490   43
+Natsu_Hatchling    1   120   210   12
+Scaleless_Elder    7   690   620   73
+Kas_Ethelin_Prime  5   610   520   58
+Alexstras_Prime    10  1020  880   53
+Phaarth_Adept      6   590   720   58
+Malefi_Dread       9   880   960   82
+Weatherbe_Tempest  8   820   880   78
+Igneel_Crimson     6   620   420   58
+
+
