@@ -1,4 +1,7 @@
-# Legends: Heroes and Monsters
+# CS611-Assignment 2
+## Legends: Heroes and Monsters
+
+---------------------------------------------------------------------------
 
 ## 📖 Project Overview
 **Legends** is an immersive, modular, text-based Role-Playing Game (RPG) developed in Java. Players command a party of three heroes—Warrior, Sorcerer, and Paladin—to explore a dynamically generated world, trade in markets, and defeat legendary bosses.
@@ -9,7 +12,7 @@ The project demonstrates advanced **Object-Oriented Programming (OOP)** principl
 
 ## ✨ Key Features
 
-### 1. Epic Boss Mechanics (New!)
+### Boss Battle
 The game features unique mechanics for floor bosses, handled by a specialized `BossBattle` logic engine:
 
 * **Floor 1 - Skeleton King (Leoric)**:
@@ -104,4 +107,121 @@ The game features unique mechanics for floor bosses, handled by a specialized `B
     ```bash
     java legends.app.Main
     ```
-3.  **Note**: Ensure the `legends/data` folder (containing .txt files) is correctly located in the source path.
+---------------------------------------------------------------------------
+
+```text
+
+== Legends: Heroes and Monsters ==
+
+1) Start New Game
+2) Continue Exploration (no active game)
+3) Exit
+Enter choice: 1
+Loading game data...
+Choose your heroes (up to 3).
+1) Warrior
+2) Paladin
+3) Sorcerer
+q) Done
+1
+1) Gaerdal_Ironhand
+2) Sehanine_Monnbow
+3) Muamman_Duathall
+4) Flandal_Steelskin
+5) Undefeated_Yoj
+6) Eunoia_Cyn
+Choose hero number:
+1
+1) Warrior
+2) Paladin
+3) Sorcerer
+q) Done
+q
+
+== Choose Region Size ==
+
+1) Small  (5 x 5)
+2) Medium (8 x 8)
+3) Large  (12 x 12)
+Enter 1, 2, or 3: 1
+
+
+== Floor 1 ==
+
++---+---+---+---+---+
+| I |   |   |   |   |
++---+---+---+---+---+
+| X | X |   |   |   |
++---+---+---+---+---+
+| M |   | M | M | M |
++---+---+---+---+---+
+| M | X |   |   | X |
++---+---+---+---+---+
+|   |   | M |   | M |
++---+---+---+---+---+
+Select an option:
+Move up:    w
+Move down:  s
+Move left:  a
+Move right: d
+Interact:   e
+Check inventory / stats: i
+Fight floor boss:        b
+Quit to main menu:       q
+i
+
+== Party Status ==
+
+Gaerdal_Ironhand, Level 1
+Health: [████████████████████] 150/150
+Mana:   [████████████████████] 800/800
+EXP:    [███████---] 7/10
+STR: 500  DEX: 600  AGI: 500  Gold: 1354
+------------------------------
+
+
+== Floor 1 ==
+
++---+---+---+---+---+
+| I |   |   |   |   |
++---+---+---+---+---+
+| X | X |   |   |   |
++---+---+---+---+---+
+| M |   | M | M | M |
++---+---+---+---+---+
+| M | X |   |   | X |
++---+---+---+---+---+
+|   |   | M |   | M |
++---+---+---+---+---+
+Select an option:
+Move up:    w
+Move down:  s
+Move left:  a
+Move right: d
+Interact:   e
+Check inventory / stats: i
+Fight floor boss:        b
+Quit to main menu:       q
+b
+
+=== Boss Battle ===
+Skeleton King Leoric (Boss) L8 HP=6000 dmg=100 def=500 dodge=30%
+Prepare yourself...
+
+
+== Combat Begins! ==
+
+Enemies:
+Leoric, Level 8
+Health: [████████████████████] 6000/800
+------------------------------
+Damage:  100
+Defense: 500
+Dodge:   30
+
+--- Round 1 ---
+== Monsters ==
+Skeleton King Leoric (Boss) L8 HP=6000 dmg=100 def=500 dodge=30%
+Gaerdal_Ironhand takes their turn!
+1) Attack  2) Potion  3) Spell  4) Stats  q) Quit
+
