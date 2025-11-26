@@ -80,6 +80,7 @@ The game features unique mechanics for floor bosses, handled by a specialized `B
 ### `legends.items` & `legends.io`
 * Defines item entities and handles data loading from `.txt` configuration files via the **Factory Pattern**.
 * Includes `WeaponCategory` enum for smart weapon classification.
+<img width="331" height="1097" alt="image" src="https://github.com/user-attachments/assets/09c309a9-8919-4468-bd13-99c04be63839" />
 
 ---
 
