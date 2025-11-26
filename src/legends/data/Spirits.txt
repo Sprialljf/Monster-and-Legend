@@ -1,0 +1,12 @@
+Name/level/damage/defense/dodge chance
+Andreal_Shade      2   580   520   38
+Blinky_Wraith      1   440   330   37
+Androma_Gloom      3   560   440   27
+Chiang_Specter     4   710   580   42
+Fallen_Seraph      5   790   720   48
+Ereshki_Gloom      6   930   470   33
+Melchi_Trickster   7   360   160   78
+Jormun_Guardian    8   620   880   22
+Rakksha_Shade      9   540   610   33
+Taltec_Echo        10  320   210   48
+Casper_Friendly    1   110   120   52
