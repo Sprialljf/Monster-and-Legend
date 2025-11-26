@@ -2,13 +2,10 @@
 ## Legends: Heroes and Monsters
 
 ---------------------------------------------------------------------------
-
-## 📖 Project Overview
-**Legends** is an immersive, modular, text-based Role-Playing Game (RPG) developed in Java. Players command a party of three heroes—Warrior, Sorcerer, and Paladin—to explore a dynamically generated world, trade in markets, and defeat legendary bosses.
-
-The project demonstrates advanced **Object-Oriented Programming (OOP)** principles and uses the **MVC architecture** to separate game logic, data, and presentation.
-
----
+- **Name**: [Jingfeng Li]
+- **Email**: [ljf628@bu.edu]
+- **Student ID**: [U73840242]
+---------------------------------------------------------------------------
 
 ## ✨ Key Features
 
