@@ -22,7 +22,7 @@ The game features unique mechanics for floor bosses, handled by a specialized `B
     * **Aerial Defense**: **Immune** to all melee physical attacks (Swords, Axes, etc.).
     * **Ranged Vulnerability**: Can only be damaged physically by weapons in the **Bow** category.
     * **Magic Vulnerability**: Takes full damage from all **Spells**.
-    * **Regeneration**: Heals **5% Max HP** at the start of every round.
+    * **Regeneration**: Heals **1% Max HP** at the start of every round.
 * **Floor 3 - The Lich King (Arthas)**:
     * **Necromancy**: Summons new minions (Spirits & Dragons) every few rounds, sacrificing old ones.
     * **Legendary Event**: Survive until **Round 5** to trigger a game-changing event.
