@@ -93,6 +93,12 @@ The game features unique mechanics for floor bosses, handled by a specialized `B
 * **Template Method**: The `Hero` class defines the leveling structure (`levelUp`), which subclasses implement differently.
 
 ---
+## UML
+---------------------------------------------------------------------------
+---
+### `UML`
+![UML Diagram](uml.png)
+
 
 ## 🚀 How to Run
 
